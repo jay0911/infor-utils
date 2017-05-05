@@ -1,0 +1,5 @@
+com\infor\endpoints\UserMaintenanceEndpoints.class
+com\infor\endpoints\RolesMaintenanceEndpoints.class
+com\infor\endpoints\CarsMaintenanceEndpoints.class
+com\infor\utils\InstantationUtil.class
+com\infor\endpoints\ParkingMaintenanceEndpoints.class
